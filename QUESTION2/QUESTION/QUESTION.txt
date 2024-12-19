@@ -1,0 +1,12 @@
+QUESTION:Explain the Git Workflow, including the staging area, working directory, and repository.
+Answer:
+1) Git Workflow is a set of steps and stages that developer follow to manage and track the changes effectively using git, a popular version control system.It involves three main componenets 
+a) The working directory 
+b) The staging area(also known as index)
+c) The repository.
+
+a) The working directory : The working directory is a local file system where you create, edit and organize your projects files. When you initiate a git repository in a directory, It becomes the part of directory.
+
+b) Staging area : The staging area is an intermediate area between the working directory and the repository. It acts as a holding area for changes you want to include in the next commit. Before a file's changes are committed, they need to be staged in the index(staging area)
+
+c) Repository : The repository also known as the git repository or git database, is where git permanently stores the commited snapshot of your project. It containes the complete history of the changes, branches, tag and other git related data. 
