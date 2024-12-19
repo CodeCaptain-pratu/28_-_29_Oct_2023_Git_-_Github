@@ -11,3 +11,9 @@ GitHub facilitates collaboration and version control in the following ways:
 4) Code reviews : GitHub makes it easy for developers to review each other's code. This helps to improve the quality of the code and to Identify potential bugs.
 
 5) Discussions : GitHub provides a way for developers to discuss their code  and ask question. This helps to promote the collaboration.
+
+Some of the platforms that provide the same functionality similar to GitHub can be : 
+1) GitLab 
+2) BitBucket 
+3) Source Forge
+4) Launchpad
