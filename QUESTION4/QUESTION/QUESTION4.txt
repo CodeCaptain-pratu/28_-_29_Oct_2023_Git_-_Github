@@ -1,0 +1,13 @@
+QUESTION:Q4. Briefly explain what GitHub is and how it facilitates collaboration and version control also name some
+alternatives to GitHub.
+Answer: GitHub is a cloud-based hosting service that helps developers store and manage their code as well as track and control changes to their code over time. It also provides a number of features that make it easy for teams to collaborate on software projects.
+GitHub facilitates collaboration and version control in the following ways:
+1) Version control : GitHub uses git, a distributed version control system, to track changes to code. This allows developers to see who made what changes and when and to revert to previous version of the code if necessary.
+
+2) Branches and pull request : GitHub makes it is easy for developers to create and manage branches of their code. This allows developers to work on new features or fix bugs without affecting the main codebase, they can create a pull request. This allows other developers to review the changes and provide feedback before they are merged
+
+3) Issues and tasks : GitHub provides a way to developers to track the issues and task related to their code. This helps teams to stay organized and to prioritize their work. 
+
+4) Code reviews : GitHub makes it easy for developers to review each other's code. This helps to improve the quality of the code and to Identify potential bugs.
+
+5) Discussions : GitHub provides a way for developers to discuss their code  and ask question. This helps to promote the collaboration.
